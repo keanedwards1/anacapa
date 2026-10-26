@@ -174,9 +174,9 @@ function App() {
             <svg className="header-contact-icon" aria-hidden="true" focusable="false" viewBox="0 0 32 32" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M9 4h10l5 5v19H9zM19 4v6h5M13 15h7M13 19h7M13 23h4"/><path d="m21 22 2 2 4-5"/></svg>
             <span className="header-contact-copy"><strong>Request a quote</strong><small>TURNING &amp; MILLING INSERTS</small></span>
           </a>
-          <a className="header-contact-item" href="tel:+14155210686" aria-label="Call Anacapa today at 415 521 0686">
+          <a className="header-contact-item" href="tel:+14155210686" aria-label="Call Anacapa today at +1 415 521 0686">
             <svg className="header-contact-icon" aria-hidden="true" focusable="false" viewBox="0 0 32 32" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M8 5h5l2 6-3 2a20 20 0 0 0 7 7l2-3 6 2v5c0 1.1-.9 2-2 2C14 26 6 18 6 7c0-1.1.9-2 2-2Z"/></svg>
-            <span className="header-contact-copy"><strong>Call today</strong><small>(415) 521-0686</small></span>
+            <span className="header-contact-copy"><strong>Call today</strong><small>+1 (415) 521-0686</small></span>
           </a>
           <button ref={menuToggleRef} className="menu-toggle" type="button" aria-controls="primary-navigation" aria-expanded={menuOpen} aria-label={menuOpen ? 'Close navigation menu' : 'Open navigation menu'} onClick={() => setMenuOpen((open) => !open)}>
             <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round">
@@ -204,7 +204,7 @@ function App() {
               <div><span className="hero-trust-icon"><AnacapaIcon name="value" size={31} /></span><span>Factory-direct<br />prices</span></div>
             </div>
             <div className="hero-actions" data-reveal>
-              <a className="button button-red" href="tel:+14155210686">Call: (415) 521-0686</a>
+              <a className="button button-red" href="tel:+14155210686">Call: +1 (415) 521-0686</a>
             </div>
           </div>
           <form className="quote-card" id="quote" onSubmit={sendQuoteRequest} data-reveal>
@@ -318,7 +318,7 @@ function App() {
           </nav>
           <div className="footer-group footer-contact">
             <h2>Call Anacapa</h2>
-            <a href="tel:+14155210686">(415) 521-0686</a>
+            <a href="tel:+14155210686">+1 (415) 521-0686</a>
           </div>
         </div>
         <div className="footer-bottom">

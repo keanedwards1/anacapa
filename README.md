@@ -19,6 +19,7 @@ The API serves a starter catalog when `MONGODB_URI` is unset. Set it in `server/
 - Set **Root Directory** to `client`.
 - Vercel detects Vite. Use `npm run build` and `dist` as the output directory.
 - Add `VITE_API_URL` with the deployed API base URL, for example `https://api.example.com`.
+- The frontend SEO metadata uses `VERCEL_PROJECT_PRODUCTION_URL` automatically. Set `SITE_URL` in Vercel only if you want to pin metadata to a specific public domain; the build uses it for canonical/social URLs, `robots.txt`, and `sitemap.xml`.
 
 The frontend can render with its built-in category fallback if the API is not configured yet. When adding a custom domain, point the quote links at the final WhatsApp business destination.
 
