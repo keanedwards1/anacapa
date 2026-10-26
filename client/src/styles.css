@@ -960,13 +960,16 @@ a {
 }
 
 .site-footer {
+  padding   : 42px var(--page-pad) 22px;
+  background: var(--dark);
+  color     : #f3f2ed;
+}
+
+.footer-main {
   display              : grid;
-  grid-template-columns: 1fr 1fr;
-  align-items          : end;
-  gap                  : 24px;
-  padding              : 32px var(--page-pad) 22px;
-  background           : var(--dark);
-  color                : #f3f2ed;
+  grid-template-columns: minmax(0, 1.5fr) minmax(140px, .7fr) minmax(150px, .7fr);
+  gap                  : clamp(28px, 6vw, 90px);
+  align-items          : start;
 }
 
 .footer-brand {
@@ -983,27 +986,41 @@ a {
 }
 
 .site-footer p {
-  margin     : 0;
+  margin     : 18px 0 0;
   color      : #d2d0c9;
   font-size  : 14px;
   line-height: 1.5;
 }
 
-.footer-links {
-  justify-self: end;
-  display     : flex;
-  gap         : 20px;
+.footer-group h2 {
+  margin        : 0 0 15px;
+  color         : #bdbab1;
+  font-size     : 12px;
+  font-weight   : 700;
+  letter-spacing: .1em;
+  line-height   : 1.2;
+  text-transform: uppercase;
 }
 
-.footer-links a {
+.footer-links {
+  display: grid;
+  gap    : 11px;
+}
+
+.footer-links a,
+.footer-contact > a {
   color                : #f3f2ed;
   font-size            : 14px;
   text-underline-offset: 3px;
 }
 
-.site-footer small {
-  grid-column: 1 / -1;
-  padding-top: 17px;
+.footer-bottom {
+  margin-top : 34px;
+  padding-top: 18px;
+  border-top : 1px solid rgb(243 242 237 / 20%);
+}
+
+.footer-bottom small {
   color      : #d2d0c9;
   font-size  : 13px;
 }
@@ -1067,6 +1084,15 @@ a {
   .quote-card select {
     height   : 58px;
     font-size: 17px;
+  }
+
+  .footer-main {
+    grid-template-columns: 1fr 1fr;
+    gap                  : 28px 36px;
+  }
+
+  .footer-about {
+    grid-column: 1 / -1;
   }
 }
 
@@ -1531,19 +1557,23 @@ a {
     font-size: 72px;
   }
 
-  .site-footer {
+  .footer-bottom {
+    margin-top: 28px;
+  }
+}
+
+@media (max-width: 620px) {
+  .footer-main {
     grid-template-columns: 1fr;
-    gap                  : 20px;
+    gap                  : 28px;
   }
 
-  .footer-links {
-    justify-self: start;
-    flex-wrap   : wrap;
-    gap         : 16px;
-  }
-
-  .site-footer small {
+  .footer-about {
     grid-column: 1;
+  }
+
+  .footer-bottom {
+    margin-top: 26px;
   }
 }
 

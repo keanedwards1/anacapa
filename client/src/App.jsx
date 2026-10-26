@@ -301,16 +301,29 @@ function App() {
       </main>
 
       <footer className="site-footer">
-        <a className="footer-brand" href="#top" aria-label="Back to Anacapa home">
-          <img src="/anacapa-logo.svg" alt="Anacapa Industrial Supply" />
-        </a>
-        <p>Carbide turning and milling inserts<br />California-based supplier serving shops and distributors worldwide</p>
-        <div className="footer-links">
-          <a href="#inserts">Turning and milling</a>
-          <a href="#why-anacapa">Why Anacapa</a>
-          <a href="#contact">Contact</a>
+        <div className="footer-main">
+          <div className="footer-about">
+            <a className="footer-brand" href="#top" aria-label="Back to Anacapa home">
+              <img src="/anacapa-logo.svg" alt="Anacapa Industrial Supply" />
+            </a>
+            <p>Carbide turning and milling inserts<br />California-based supplier serving shops and distributors worldwide</p>
+          </div>
+          <nav className="footer-group" aria-label="Footer navigation">
+            <h2>Explore</h2>
+            <div className="footer-links">
+              <a href="#inserts">Turning and milling</a>
+              <a href="#why-anacapa">Why Anacapa</a>
+              <a href="#contact">Contact</a>
+            </div>
+          </nav>
+          <div className="footer-group footer-contact">
+            <h2>Call Anacapa</h2>
+            <a href="tel:+14155210686">(415) 521-0686</a>
+          </div>
         </div>
-        <small>© {new Date().getFullYear()} Anacapa Industrial Supply</small>
+        <div className="footer-bottom">
+          <small>© {new Date().getFullYear()} Anacapa Industrial Supply</small>
+        </div>
       </footer>
     </>
   )
