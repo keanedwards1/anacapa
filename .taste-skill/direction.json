@@ -1,0 +1,469 @@
+{
+ "version": 1,
+ "at": "2026-10-25T23:11:11.824Z",
+ "seed": 80204499,
+ "redraws": 0,
+ "input": {
+  "brief": "Anacapa Industrial Supply supplies carbide turning and milling inserts factory-direct to CNC shops and distributors, with quotes requested by insert code",
+  "sector": "physical-product",
+  "tone": "technical",
+  "have": [],
+  "keep": [],
+  "avoid": [],
+  "sections": [
+   "features"
+  ],
+  "direction": "name-as-monument"
+ },
+ "imagery": "no-product-photo",
+ "allow": [],
+ "direction": {
+  "id": "name-as-monument",
+  "name": "The name as a monument",
+  "sectors": [
+   "agency",
+   "studio-portfolio",
+   "personal-portfolio",
+   "hospitality",
+   "restaurant",
+   "music",
+   "culture",
+   "fashion",
+   "event",
+   "architecture",
+   "real-estate",
+   "physical-product",
+   "consumer-app",
+   "other"
+  ],
+  "tones": [
+   "bold",
+   "editorial",
+   "luxury"
+  ],
+  "needs": [],
+  "idea": "The name is the headline. Set it so large that it becomes architecture: as wide as the viewport, cropped by an edge, or stacked to fill the screen. Nothing else on the first screen competes; the description of what this is drops to a single small sentence. The idea comes from treating the name's letters as material. Ask what the subject can do to its own name: a photograph of the work sits inside a counter or replaces a letter, the name repeats down the page like a reel, the letters are split to opposite corners and the page happens between them. In the study this was the single most common device among sites scoring 7.5 or more.",
+  "composition": "First screen: the wordmark spans 88–100% of the viewport width (font-size 16–24vw, set with a clamp so it never wraps), anchored either to the bottom edge with its descenders nearly touching it, or dead centre with everything else pushed to the corners. One line of supporting text at 16–20px sits in a corner on a shared margin; navigation is three or four words in the opposite corner. After the hero the page is deliberately small and calm: a narrow text column or a simple two-column grid, so the contrast with the monument holds. The name returns once more at full width as the footer, in the inverse colours. Margins are tight (20–32px) so the type reaches the edges. Two type sizes do nearly all the work: the monument and a small text size, with one mid size for section headings.",
+  "typography": "One family. The display cut must survive enormous sizes: tight tracking (-0.04 to -0.07em), leading 0.8–0.9, optical kerning on. Section headings are modest (28–40px) on purpose.",
+  "typeClasses": [
+   "grotesk-tight",
+   "condensed-heavy",
+   "extended-heavy",
+   "heavy-black",
+   "serif-display"
+  ],
+  "colour": "Two values carry the page (ground and ink). The accent, if used at all, appears on one thing only: the single action or the inset image frame. The footer inverts ground and ink.",
+  "paletteTags": [
+   "light-neutral",
+   "dark-neutral",
+   "two-tone",
+   "mono-accent"
+  ],
+  "imagery": "Few images, used as inserts in the typography rather than as illustrations beside it: one photograph inside or behind the name (a 4:5 or 1:1 frame replacing a letter, or tucked between two words), then a short run of large full-width or half-width photographs further down. Square corners. No collage of small thumbnails.",
+  "sectionTags": [
+   "type-led",
+   "quiet",
+   "poster"
+  ],
+  "motion": "scaling-wordmark",
+  "richness": "Scale. The size of the name against the smallness of everything else is the entire visual event, so protect both ends: do not shrink the name to make room, and do not let body text creep above 20px.",
+  "pitfalls": "A long name set small is just a logo. If the name has more than about 12 characters, stack it on two lines or crop it with the viewport edge; never drop below 12vw. Do not add a second big headline under the name. Do not decorate the letters.",
+  "seenIn": [
+   "aww-nothin",
+   "opl-kereliott",
+   "aww-paul-kalkbrenner",
+   "opl-nia-creative",
+   "aww-house-of-honey-1",
+   "aww-produx-design"
+  ],
+  "allow": []
+ },
+ "hero": {
+  "id": "stacked-name-two-inks",
+  "name": "Stacked name, two inks",
+  "archetype": "type-poster",
+  "directions": [
+   "name-as-monument",
+   "colour-chapters",
+   "type-only-statement"
+  ],
+  "needs": [],
+  "blueprint": "One saturated flat field covers the whole 1440×900 viewport and there is no image. The name is broken into two lines and set flush left from a 40px margin at clamp(110px, 15vw, 230px), heavy weight, tracking -0.04em, line-height 0.82 so the lines almost touch. The block starts 14% down and fills the top 58% of the screen; the longer line reaches at least column 11. Line one is set in the light ink and line two in the dark ink, so the break reads as a change of voice: split a two-word name between the lines, or break one long name with a hyphen at a syllable. The top edge carries only small text at 15px, 24px in: a monogram top-left, and two or three text links plus the single action as an underlined link top-right. The supporting sentence, 18px in the light ink and max 30ch, is right-aligned in the bottom-right corner on columns 9–12, its last line 40px above the bottom edge. The bottom-left corner stays empty. The next section begins as a different flat field exactly at the fold.",
+  "mobile": "The field fills 100svh. The name keeps its two lines and two inks at 21vw, flush left at a 16px margin, starting 18% down; a long name hyphenates rather than dropping below 18vw. The supporting sentence moves to the bottom-left at 16px across the full width, with the action as an underlined link beneath it, 24px above the bottom edge. The top-right links reduce to one word.",
+  "headline": "The name on exactly two lines, one per ink, each line up to about 8 characters at 15vw on desktop and 21vw on a phone.",
+  "motion": "masked-headline",
+  "seenIn": [
+   "opl-marina-rachello",
+   "opl-anidachi"
+  ]
+ },
+ "type": {
+  "id": "bricolage-contrast",
+  "name": "Bricolage Grotesque",
+  "class": "grotesk-tight",
+  "display": {
+   "family": "Bricolage Grotesque",
+   "source": "google",
+   "weights": [
+    600
+   ],
+   "italic": false,
+   "settings": "weight 600 · tracking -0.04em · leading 0.92 · sentence case; leave optical sizing on so large sizes tighten and gain contrast",
+   "css": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link href=\"https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@400;500;600&display=swap\" rel=\"stylesheet\">"
+  },
+  "text": {
+   "family": "Bricolage Grotesque",
+   "source": "google",
+   "weights": [
+    400,
+    500
+   ],
+   "italic": false,
+   "settings": "400 for body, 500 for emphasis · leading 1.5 · tracking 0",
+   "css": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link href=\"https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@400;500;600&display=swap\" rel=\"stylesheet\">"
+  },
+  "standsInFor": [
+   "Beausite Classic",
+   "F37 Analog"
+  ],
+  "note": "A grotesk with visible stroke contrast and slightly irregular curves, so headings look drawn rather than engineered. Suits reports, consultancies and design-led software that want warmth without a serif.",
+  "seenIn": [
+   "aww-ai-in-design-report-2026",
+   "aww-illoca",
+   "opl-ohhmydesign"
+  ],
+  "links": [
+   "https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@400;500;600&display=swap"
+  ],
+  "scale": {
+   "step-small": "clamp(0.8125rem, 0.79rem + 0.1vw, 0.875rem)",
+   "step-body": "clamp(1.0625rem, 1rem + 0.25vw, 1.1875rem)",
+   "step-lead": "clamp(1.25rem, 1.1rem + 0.7vw, 1.625rem)",
+   "step-head": "clamp(2rem, 1.3rem + 3.2vw, 4rem)"
+  }
+ },
+ "palette": {
+  "id": "forest-pale-lime",
+  "name": "Forest and lime",
+  "tags": [
+   "dark-neutral",
+   "earth"
+  ],
+  "bg": "#0f1f10",
+  "surface": "#162a17",
+  "ink": "#ffffff",
+  "muted": "#9aa39a",
+  "accent": "#c6f19d",
+  "accentInk": "#0f1f10",
+  "fields": [
+   {
+    "bg": "#000000",
+    "ink": "#ffffff"
+   },
+   {
+    "bg": "#ffffff",
+    "ink": "#0f1f10"
+   }
+  ],
+  "note": "Forest green, black and white sections alternate, with forest green holding the most; photographs stay in moss greens and stone browns. Pale lime sits on small squares only, such as arrow buttons and the closing wordmark.",
+  "seenIn": [
+   "aww-alethia"
+  ]
+ },
+ "photos": {
+  "set": "hands-and-making",
+  "title": "Hands and making",
+  "note": "hands at work, craft and making",
+  "treatment": null,
+  "others": [
+   "mountain",
+   "forest",
+   "desert-and-road",
+   "field-and-farm"
+  ],
+  "photos": [
+   {
+    "id": 1060,
+    "alt": "Kettle pouring water over a pour-over coffee dripper on a dark counter",
+    "tone": "dark",
+    "colours": [
+     "dark teal",
+     "black",
+     "warm brown"
+    ],
+    "mono": false,
+    "calm": "none",
+    "quality": 4,
+    "ratio": 1.5,
+    "by": "Karl Fredrickson",
+    "page": "https://unsplash.com/photos/TYIzeCiZ_60"
+   },
+   {
+    "id": 785,
+    "alt": "Two cupped hands holding a pile of green spruce tips",
+    "tone": "mid",
+    "colours": [
+     "fresh green",
+     "dark green",
+     "warm skin"
+    ],
+    "mono": false,
+    "calm": "none",
+    "quality": 4,
+    "ratio": 1.5,
+    "by": "Jean Lakosnyk",
+    "page": "https://unsplash.com/photos/N9yFjkDc0vA"
+   },
+   {
+    "id": 674,
+    "alt": "Cupped hands holding a heap of dark blue grapes",
+    "tone": "mid",
+    "colours": [
+     "pale blue",
+     "dark purple",
+     "tan"
+    ],
+    "mono": false,
+    "calm": "none",
+    "quality": 4,
+    "ratio": 1.5,
+    "by": "Maja Petric",
+    "page": "https://unsplash.com/photos/vGQ49l9I4EE"
+   },
+   {
+    "id": 319,
+    "alt": "Hands holding a vintage rangefinder camera against a denim jacket",
+    "tone": "mid",
+    "colours": [
+     "denim blue",
+     "mustard",
+     "silver"
+    ],
+    "mono": false,
+    "calm": "none",
+    "quality": 4,
+    "ratio": 1.97,
+    "by": "Kristian Karlsson",
+    "page": "https://unsplash.com/photos/3V6ZTpZS-ag"
+   },
+   {
+    "id": 407,
+    "alt": "Hands lighting a sparkler that throws bright sparks in the dark",
+    "tone": "dark",
+    "colours": [
+     "charcoal",
+     "warm white",
+     "amber"
+    ],
+    "mono": false,
+    "calm": "right",
+    "quality": 4,
+    "ratio": 1.5,
+    "by": "Kelley Bozarth",
+    "page": "https://unsplash.com/photos/n6vS3xlnsCc"
+   },
+   {
+    "id": 491,
+    "alt": "Axe, hammer, pliers and leather gloves laid out on dark wood",
+    "tone": "dark",
+    "colours": [
+     "dark brown",
+     "tan",
+     "steel grey"
+    ],
+    "mono": false,
+    "calm": "none",
+    "quality": 4,
+    "ratio": 1.23,
+    "by": "Todd Quackenbush",
+    "page": "https://unsplash.com/photos/IClZBVw5W5A"
+   },
+   {
+    "id": 304,
+    "alt": "Hand adjusting faders on an audio mixing console",
+    "tone": "mid",
+    "colours": [
+     "warm white",
+     "navy",
+     "amber"
+    ],
+    "mono": false,
+    "calm": "none",
+    "quality": 4,
+    "ratio": 1.5,
+    "by": "Drew Patrick Miller",
+    "page": "https://unsplash.com/photos/_o6AAx9dl_Y"
+   }
+  ]
+ },
+ "motion": {
+  "id": "masked-headline",
+  "name": "Masked headline",
+  "description": "On load, each line of the headline rises from behind its own baseline, about 900ms with a strong ease-out, the second line 110ms after the first; the supporting sentence and the action then fade up together. Nothing else on the page performs. Because headlines are two lines at most, you author the line breaks and wrap each line yourself. Recipe: 'Masked line reveal' in references/motion.md."
+ },
+ "sections": [
+  {
+   "id": "features-one-size-name-columns",
+   "role": "features",
+   "name": "One-size name columns",
+   "shape": "index",
+   "tags": [
+    "quiet",
+    "type-led",
+    "dense"
+   ],
+   "directions": [
+    "contact-sheet",
+    "quiet-instrument",
+    "name-as-monument",
+    "dark-room",
+    "uneven-photographs"
+   ],
+   "needs": [],
+   "blueprint": "Pure text at one size. Three columns start on columns 1, 4 and 7 of the 12-column grid, leaving columns 10–12 empty on purpose. Each column opens with a group name in full ink and continues with a tight stack of six to ten capability names in the soft ink, all at 16–17px, regular weight, line-height 1.25, no bullets and no symbols; one blank line separates group name from stack. Hovering a name brings it to full ink and shows a one-line description in a fixed spot: the top of the empty columns 10–12, at the same size. The heading is no larger than 28px; two or three words, alone on column 1, 96px above the columns. Give the section 20vh of empty ground above and below, so the smallness reads as decided. Works on light or deep grounds.",
+   "mobile": "Columns stack with 40px between groups; text rises to 18px with line-height 1.4 for touch. Group names stay in full ink. Hover descriptions are dropped; each group ends instead with one sentence in the soft ink that sums it up. The heading is 24px, 48px above.",
+   "seenIn": [
+    "aww-revelatio-studio",
+    "aww-pp-neue-montreal",
+    "aww-lama-lama-2"
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "aww-house-of-honey-1",
+   "name": "House of Honey",
+   "url": "https://www.houseofhoney.com/",
+   "source": "Awwwards Site of the Day",
+   "kind": "studio-portfolio",
+   "score": 8.4,
+   "idea": "A block-heavy wordmark pierced by a hairline script: the bold-against-delicate contrast is repeated at every scale, with giant pink script behind quiet serif statements.",
+   "mood": [
+    "glamorous",
+    "warm",
+    "playful",
+    "editorial",
+    "confident"
+   ],
+   "archetype": "giant-wordmark",
+   "hero": "Top 42% is a flat blush-pink band; the bottom 58% is a full-bleed photograph of a bright living room, arched window on the centre axis, butting against the band with no margin. A tiny nav row sits at the very top with 8px side margins: block logo glyph and five links left, contact link with a small square arrow box far right. The wordmark fills the width edge to edge: two words in ultra-black extended caps, about 120px cap height, dark aubergine, with a hairline script 'of' 230px tall between them, overshooting above and below. Directly beneath, two two-line serif uppercase taglines at 31px, one flush left, one flush right.",
+   "type": "Wordmark in ultra-black extended caps; statements in noeText serif, uppercase, 31–40px, tight tracking; nav and captions in neueHaasGrotesk around 14px; 'canora' hairline script for the connecting word and for cropped background words at 37vw. Three contrasting voices, each with one job.",
+   "colour": "#edccbe #331917 #0e0e0e #f26fcb #ffffff — Blush pink and dark aubergine-brown alternate as full fields and as each other's text colour. Hot pink appears only in the oversized script and a 2px divider. Photographs bring saturated colour.",
+   "imagery": "Editorial interior photography, saturated and daylight-lit. Hero is a full-bleed landscape crop; projects are portrait crops about 5:6 in a three-column grid with 4px gutters and square corners.",
+   "layout": "Edge-to-edge with 8px outer margins. Typographic sections (small centred label, serif statement, cropped giant script) alternate with a three-column image grid. Blush and brown fields swap each section; hairline link rows close blocks. The footer is a full-width logo glyph.",
+   "sections": [
+    {
+     "role": "intro",
+     "description": "Dark aubergine field under the hero photo, separated by a 2px hot-pink line. A small sans label centred, then a three-line centred serif uppercase statement at about 31px in blush, 45% of the width. Behind it a hot-pink script phrase set near 37vw runs off both sides and is cut by the section's bottom edge, its ascenders rising into the statement. A smaller serif line follows."
+    },
+    {
+     "role": "other",
+     "description": "Title card before the project grid. Blush field, nearly empty screen. A small label and a one-line serif uppercase heading about 40px sit centred at 55% height. The giant pink script returns, cropped by the bottom edge so only its top half shows and running off both sides."
+    },
+    {
+     "role": "work",
+     "description": "Three columns edge to edge with 4px gutters and 8px outer margins. Portrait photos about 500×580px, square corners. Under each: an uppercase sans title at 14px and a grey line of GPS coordinates. Two rows, then a full-width hairline row with a text link left and a small square arrow box at the far right."
+    },
+    {
+     "role": "footer",
+     "description": "Brown field. The logo glyph is enlarged to full width and about a third of the screen: blush rectangles and quarter-circle arcs with 4px gaps, forming an abstract monogram. Below: four columns of small links, a hairline, two addresses in the first two columns, another hairline, then copyright left and a small blush button right."
+    }
+   ],
+   "steal": [
+    "Set a wordmark edge to edge in ultra-heavy extended caps and thread a hairline script connecting word through it that overshoots the cap height both ways.",
+    "Use an oversized script word in one hot accent colour as a cropped background layer behind small, calm serif statements.",
+    "Split a tagline into two halves, flush left and flush right on the same baseline under the wordmark, instead of centring it."
+   ]
+  },
+  {
+   "id": "aww-paul-kalkbrenner",
+   "name": "Paul Kalkbrenner",
+   "url": "https://www.paulkalkbrenner.net/",
+   "source": "Awwwards Site of the Day",
+   "kind": "music",
+   "score": 8.1,
+   "idea": "Swiss poster typography for a techno artist: the name as one black line with a photo set inside it like a glyph, then every chapter gets its own flat colour and visible grid.",
+   "mood": [
+    "stark",
+    "graphic",
+    "confident",
+    "rhythmic",
+    "modernist"
+   ],
+   "archetype": "giant-wordmark",
+   "hero": "Pure white viewport. The artist's name sits on one line at exact vertical centre in bold black neo-grotesk, about 10.4vw, spanning roughly 78% of the width with equal side margins. The space between first and last name is replaced by a small landscape black-and-white photo, x-height tall and resting on the baseline. Top-left is a tiny circular monogram; eight nav links in 13px bold are spread at even intervals across the right half of the top edge. Bottom edge: equaliser bars with a grey label over a track title at left, a three-line bold blurb starting just left of centre, a sound toggle hard right. About 85% is empty.",
+   "type": "ABC Diatype Plus Variable only: bold at -0.05em tracking for display and 13.5px bold for everything functional. Display runs from 150px in the hero to about 44vw elsewhere per the digest. Tiny uppercase labels inside boxed cells; no second face, no italics.",
+   "colour": "#ffffff #000000 #c5c5c5 #a7ff9c #ff6831 — Black on white to start, then whole sections flood with flat mid-grey, acid mint and orange. Photos inside coloured sections are tinted to the section hue or kept black-and-white.",
+   "imagery": "Portraits and live shots of the artist: full-bleed colour images between sections, a grainy monochrome portrait marked up as a vinyl disc, a green duotone car portrait, and a strip of small mixed-ratio thumbnails. Square corners throughout.",
+   "layout": "Outer margins of only 4-8px; content hangs on a visible column grid with hairlines and boxed cells. Sections alternate between full-bleed photographs and flat colour fields, each arranged differently, so the rhythm is one poster after another.",
+   "sections": [
+    {
+     "role": "intro",
+     "description": "Two words stacked in bold grotesk at roughly 8vw, each preceded by a solid black circle about the height of the lowercase, the second line indented further right than the first. Thin horizontal and vertical hairlines cross the white field at baselines and column edges like a construction grid. Directly beneath is a single row of streaming-service logos spaced evenly edge to edge, then a full-bleed photograph."
+    },
+    {
+     "role": "showcase",
+     "description": "Flat mid-grey field split in two. Left half: a square grainy monochrome portrait with a large thin circle drawn on it and a small grey dot at the centre, so the photo reads as a record. Right half: a row of three year tabs and a small link above a hairline, the album title in small bold caps, a short description lower down, and along the bottom two wide outlined cells side by side acting as buttons."
+    },
+    {
+     "role": "other",
+     "description": "Acid-mint field introducing the tour list. A large photograph, recoloured as a green-and-black duotone, occupies only the top-right quadrant; the left half is left empty. Along the bottom a table header with three tiny uppercase column labels sits on a hairline spanning the full width, where the list of dates begins."
+    },
+    {
+     "role": "contact",
+     "description": "Orange field. A horizontally scrolling strip of small photographs of differing widths runs across the top, cropped by both edges. Below it one outlined rectangle spans the width, divided into three equal cells: two inputs and a submit action, each identified only by tiny centred uppercase text. Small-print lines sit under the left and right cells."
+    }
+   ],
+   "steal": [
+    "Replace the space between the two words of a giant name with a small photo cropped to x-height.",
+    "Flood each chapter with one flat colour and tint its photograph to match as a duotone.",
+    "Build forms and button pairs as adjoining outlined cells with tiny uppercase labels instead of filled buttons."
+   ]
+  },
+  {
+   "id": "aww-noho",
+   "name": "Noho",
+   "url": "https://noho.ink",
+   "source": "Awwwards Site of the Day",
+   "kind": "physical-product",
+   "score": 8,
+   "idea": "Furniture sold through people misusing it (wearing, balancing on, hiding behind chairs on flat colour backdrops) while the interface stays quiet beige.",
+   "mood": [
+    "playful",
+    "warm",
+    "clean",
+    "confident",
+    "humane"
+   ],
+   "archetype": "split-text-media",
+   "hero": "The viewport splits exactly 50/50 by tone alone: left half warm off-white, right half a slightly darker greige, no rule. Left: a small lowercase logo top-left at 30px margin, then a four-line bold headline at 60px (4.2vw), tracking -0.04em and leading near 1.0, top-left aligned and filling the upper 40%; the lower half is empty except for a one-line 18px tagline pinned bottom-left. Right: a staggered mosaic of seven portrait photos, each about 175 by 230px with 15px gaps, on a four-column, three-row grid with several cells left empty and the rightmost image cropped by the viewport edge. A white square menu button sits top-right.",
+   "type": "Switzer only. Headlines weight 600, tracking -0.04em, sentence case, charcoal rather than black; statements at 60px, body 13.5px, meta labels about 11px grey. The digest records one element at 15.6vw. Roughly four sizes, one family, no caps.",
+   "colour": "#f1eee9 #e7e2dc #cdc0b0 #3c3c3c #b4a5db #f2e05a — The interface is three close warm beiges with charcoal type; saturated colour (lilac, yellow, olive, terracotta, sand) exists only in photo backdrops and the products themselves.",
+   "imagery": "Studio shots of people interacting oddly with chairs on seamless single-colour backdrops, portrait 3:4, square corners; plus very large cut-out product shots on beige with a soft radial glow and contact shadow, cropped by the panel edge.",
+   "layout": "Outer margins of 16-30px. Sections alternate between split halves, centred statements and left-aligned headings over card rows. Cards are flat rectangles one tone darker than the page with 8px gaps, content pinned to the top-left and bottom edges. Wide empty bands separate sections.",
+   "sections": [
+    {
+     "role": "intro",
+     "description": "A centred four-line statement at about 60px bold with tiny square photo thumbnails, roughly one cap-height tall, dropped inline between words like emoji. Directly beneath, the page splits into two full-width flat colour halves (light greige and tan), each with a small circled plus button in its top inner corner; these are the tops of the two product panels."
+    },
+    {
+     "role": "showcase",
+     "description": "Two side-by-side panels in different beiges, each dominated by one enormous cut-out chair (one yellow, one black) cropped at the top so mostly seat and legs show, with a soft radial highlight behind. Along the bottom of each panel: a tiny label and price at left, a row of colour-swatch dots, then two small rectangular buttons at right, one white and one charcoal."
+    },
+    {
+     "role": "stats",
+     "description": "Three equal flat tiles in a row with 8px gaps, each about 210px tall. One short claim is centred in each at roughly 18px, and an index number sits alone in the bottom-left corner in 11px. A small bulleted label hangs above each tile. After a large empty gap, another centred bold statement begins."
+    },
+    {
+     "role": "testimonial",
+     "description": "A horizontal strip of colour-backdrop photos bleeds off both edges at the top of the section. Below, a left-aligned bold heading at about 40px, then a row of beige cards overflowing to the right: each has an @name at top-left, a short paragraph in 11px, and a bottom row with star glyphs left and a small text link right."
+    }
+   ],
+   "steal": [
+    "Split the hero 50/50 by background tone alone, park the headline top-left and one tagline bottom-left, and fill the other half with a staggered photo mosaic that leaves grid cells empty.",
+    "Keep the interface in three close beige tones and confine all saturated colour to photo backdrops and products, so the photography becomes the palette.",
+    "Drop cap-height photo thumbnails inline between the words of a large centred statement."
+   ]
+  }
+ ]
+}

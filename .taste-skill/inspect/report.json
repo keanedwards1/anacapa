@@ -1,0 +1,1655 @@
+{
+ "url": "http://localhost:5173/",
+ "at": "2026-10-26T16:14:28.031Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 27,
+    "css": 0,
+    "transitions": 27,
+    "scripted": 0,
+    "videos": 2,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 3105,
+     "screens": 3.5,
+     "words": 315,
+     "img": 4,
+     "video": 2,
+     "canvas": 0,
+     "svg": 12,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 2,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "milling-1137974_1280.jpg",
+      "machine-1181046_1280.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "CARBIDE INSERTS FOR YOUR SHOP.",
+     "words": 5,
+     "chars": 30,
+     "lines": 2,
+     "size": 86,
+     "vw": 6,
+     "font": "Barlow Condensed",
+     "weight": 700,
+     "tracking": -0.035,
+     "leading": 0.96,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.44,
+     "top": 356,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "CARBIDE INSERTS FOR YOUR SHOP.",
+     "words": 5,
+     "lines": 2,
+     "size": 86,
+     "font": "Barlow Condensed"
+    },
+    "headings": [
+     {
+      "text": "High Quality Inserts",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "DM Sans",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "right",
+      "widthRatio": 0.3,
+      "top": 330,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "CARBIDE INSERTS FOR YOUR SHOP.",
+      "words": 5,
+      "chars": 30,
+      "lines": 2,
+      "size": 86,
+      "vw": 6,
+      "font": "Barlow Condensed",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.96,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 356,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Turning and milling inserts.",
+      "words": 4,
+      "chars": 28,
+      "lines": 2,
+      "size": 82,
+      "vw": 5.7,
+      "font": "Barlow Condensed",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.94,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 1295,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Turning inserts",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Barlow Condensed",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.1,
+      "top": 1599,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Milling inserts",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Barlow Condensed",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.1,
+      "top": 1599,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Quote the code you already use.",
+      "words": 6,
+      "chars": 31,
+      "lines": 2,
+      "size": 88,
+      "vw": 6.1,
+      "font": "Barlow Condensed",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 2017,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Share the code",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 29,
+      "vw": 2,
+      "font": "Barlow Condensed",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.43,
+      "top": 2034,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "See price and availability",
+      "words": 4,
+      "chars": 26,
+      "lines": 1,
+      "size": 29,
+      "vw": 2,
+      "font": "Barlow Condensed",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.43,
+      "top": 2165,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Try a sample",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 29,
+      "vw": 2,
+      "font": "Barlow Condensed",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.43,
+      "top": 2295,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Talk with Eli.",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 108,
+      "vw": 7.5,
+      "font": "Barlow Condensed",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.88,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 2625,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "DM Sans",
+       "share": 0.87,
+       "mono": false
+      },
+      {
+       "family": "Barlow Condensed",
+       "share": 0.13,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      23,
+      27,
+      28,
+      29,
+      32,
+      82,
+      86,
+      88,
+      108
+     ],
+     "sizeCount": 18,
+     "notLoaded": [],
+     "body": {
+      "font": "DM Sans",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 10.6
+     },
+     "measureChars": 52,
+     "max": {
+      "size": 108,
+      "vw": 7.5,
+      "font": "Barlow Condensed",
+      "text": "Talk with Eli."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.04,
+     "centerShare": 0.06,
+     "smallText": 4
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f5f5f5",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f7f7f6",
+       "top": 141,
+       "hsl": {
+        "h": 60,
+        "s": 0.06,
+        "l": 0.97
+       }
+      },
+      {
+       "color": "#20201e",
+       "top": 141,
+       "hsl": {
+        "h": 60,
+        "s": 0.03,
+        "l": 0.12
+       }
+      },
+      {
+       "color": "#e2e0d9",
+       "top": 1895,
+       "hsl": {
+        "h": 47,
+        "s": 0.13,
+        "l": 0.87
+       }
+      },
+      {
+       "color": "#e7a83c",
+       "top": 2519,
+       "hsl": {
+        "h": 38,
+        "s": 0.78,
+        "l": 0.57
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#20201e",
+       "share": 0.31
+      },
+      {
+       "color": "#d2d0c9",
+       "share": 0.22
+      },
+      {
+       "color": "#4f4d48",
+       "share": 0.21
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.15
+      },
+      {
+       "color": "#f3f2ed",
+       "share": 0.06
+      }
+     ],
+     "button": {
+      "bg": "#20201e",
+      "hsl": {
+       "h": 60,
+       "s": 0.03,
+       "l": 0.12
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 2,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Call: (415) 521-0686",
+      "Submit"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "video",
+      "ratio": 0.42
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": false,
+     "height": 104,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "barlow condensed",
+     "dm sans"
+    ]
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 27,
+    "css": 0,
+    "transitions": 27,
+    "scripted": 0,
+    "videos": 2,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 3696,
+     "screens": 3.6,
+     "words": 308,
+     "img": 4,
+     "video": 2,
+     "canvas": 0,
+     "svg": 12,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 2,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "milling-1137974_1280.jpg",
+      "machine-1181046_1280.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "CARBIDE INSERTS FOR YOUR SHOP.",
+     "words": 5,
+     "chars": 30,
+     "lines": 2,
+     "size": 61.4,
+     "vw": 8,
+     "font": "Barlow Condensed",
+     "weight": 700,
+     "tracking": -0.035,
+     "leading": 0.96,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.81,
+     "top": 268,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "CARBIDE INSERTS FOR YOUR SHOP.",
+     "words": 5,
+     "lines": 2,
+     "size": 61.4,
+     "font": "Barlow Condensed"
+    },
+    "headings": [
+     {
+      "text": "CARBIDE INSERTS FOR YOUR SHOP.",
+      "words": 5,
+      "chars": 30,
+      "lines": 2,
+      "size": 61.4,
+      "vw": 8,
+      "font": "Barlow Condensed",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.96,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.81,
+      "top": 268,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Turning and milling inserts.",
+      "words": 4,
+      "chars": 28,
+      "lines": 2,
+      "size": 48.4,
+      "vw": 6.3,
+      "font": "Barlow Condensed",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.94,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 1755,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Turning inserts",
+      "words": 2,
+      "chars": 15,
+      "lines": 2,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Barlow Condensed",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.1,
+      "top": 2019,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Milling inserts",
+      "words": 2,
+      "chars": 15,
+      "lines": 2,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Barlow Condensed",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.09,
+      "top": 2019,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Quote the code you already use.",
+      "words": 6,
+      "chars": 31,
+      "lines": 2,
+      "size": 52.2,
+      "vw": 6.8,
+      "font": "Barlow Condensed",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.65,
+      "top": 2406,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Share the code",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 29,
+      "vw": 3.8,
+      "font": "Barlow Condensed",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 2675,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "See price and availability",
+      "words": 4,
+      "chars": 26,
+      "lines": 1,
+      "size": 29,
+      "vw": 3.8,
+      "font": "Barlow Condensed",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 2806,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Try a sample",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 29,
+      "vw": 3.8,
+      "font": "Barlow Condensed",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 2936,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Talk with Eli.",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 61.4,
+      "vw": 8,
+      "font": "Barlow Condensed",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.88,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 3257,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 9,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "DM Sans",
+       "share": 0.87,
+       "mono": false
+      },
+      {
+       "family": "Barlow Condensed",
+       "share": 0.13,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      10,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      22,
+      25,
+      28,
+      29,
+      48,
+      52,
+      61
+     ],
+     "sizeCount": 15,
+     "notLoaded": [],
+     "body": {
+      "font": "DM Sans",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 10.6
+     },
+     "measureChars": 52,
+     "max": {
+      "size": 61.4,
+      "vw": 8,
+      "font": "Barlow Condensed",
+      "text": "Carbide insertsfor your shop."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.04,
+     "centerShare": 0.06,
+     "smallText": 6
+    },
+    "eyebrows": [
+     {
+      "text": "California-based supplier",
+      "above": "CARBIDE INSERTS FOR YOUR SHOP.",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 17,
+      "top": 236
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f5f5f5",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f7f7f6",
+       "top": 115,
+       "hsl": {
+        "h": 60,
+        "s": 0.06,
+        "l": 0.97
+       }
+      },
+      {
+       "color": "#20201e",
+       "top": 1073,
+       "hsl": {
+        "h": 60,
+        "s": 0.03,
+        "l": 0.12
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 635,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#e2e0d9",
+       "top": 2336,
+       "hsl": {
+        "h": 47,
+        "s": 0.13,
+        "l": 0.87
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#20201e",
+       "share": 0.31
+      },
+      {
+       "color": "#d2d0c9",
+       "share": 0.22
+      },
+      {
+       "color": "#4f4d48",
+       "share": 0.21
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.15
+      },
+      {
+       "color": "#f3f2ed",
+       "share": 0.06
+      }
+     ],
+     "button": {
+      "bg": "#20201e",
+      "hsl": {
+       "h": 60,
+       "s": 0.03,
+       "l": 0.12
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 2,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Call: (415) 521-0686",
+      "Submit"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 78,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "barlow condensed",
+     "dm sans"
+    ]
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 27,
+    "css": 0,
+    "transitions": 27,
+    "scripted": 0,
+    "videos": 2,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 4649,
+     "screens": 5.5,
+     "words": 303,
+     "img": 4,
+     "video": 2,
+     "canvas": 0,
+     "svg": 12,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 2,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "milling-1137974_1280.jpg",
+      "machine-1181046_1280.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "CARBIDE INSERTS FOR YOUR SHOP.",
+     "words": 5,
+     "chars": 30,
+     "lines": 2,
+     "size": 52,
+     "vw": 13.3,
+     "font": "Barlow Condensed",
+     "weight": 700,
+     "tracking": -0.035,
+     "leading": 0.96,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 320,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "CARBIDE INSERTS FOR YOUR SHOP.",
+     "words": 5,
+     "lines": 2,
+     "size": 52,
+     "font": "Barlow Condensed"
+    },
+    "headings": [
+     {
+      "text": "CARBIDE INSERTS FOR YOUR SHOP.",
+      "words": 5,
+      "chars": 30,
+      "lines": 2,
+      "size": 52,
+      "vw": 13.3,
+      "font": "Barlow Condensed",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.96,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 320,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "High Quality Inserts",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 25,
+      "vw": 6.4,
+      "font": "DM Sans",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 804,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Turning inserts",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Barlow Condensed",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 1625,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Milling inserts",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Barlow Condensed",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "right",
+      "widthRatio": 0.28,
+      "top": 1625,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Free samples",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Barlow Condensed",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 1765,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Small minimums",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Barlow Condensed",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "right",
+      "widthRatio": 0.33,
+      "top": 1765,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Turning and milling inserts.",
+      "words": 4,
+      "chars": 28,
+      "lines": 2,
+      "size": 54,
+      "vw": 13.8,
+      "font": "Barlow Condensed",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.94,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1923,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Turning inserts",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Barlow Condensed",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 2174,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Milling inserts",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Barlow Condensed",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 2345,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Quote the code you already use.",
+      "words": 6,
+      "chars": 31,
+      "lines": 2,
+      "size": 64,
+      "vw": 16.4,
+      "font": "Barlow Condensed",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3116,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Share the code",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 29,
+      "vw": 7.4,
+      "font": "Barlow Condensed",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 3433,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "See price and availability",
+      "words": 4,
+      "chars": 26,
+      "lines": 1,
+      "size": 29,
+      "vw": 7.4,
+      "font": "Barlow Condensed",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 3593,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Try a sample",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 29,
+      "vw": 7.4,
+      "font": "Barlow Condensed",
+      "weight": 600,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 3727,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Talk with Eli.",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 72,
+      "vw": 18.5,
+      "font": "Barlow Condensed",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.88,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4066,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 14,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 5,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "DM Sans",
+       "share": 0.87,
+       "mono": false
+      },
+      {
+       "family": "Barlow Condensed",
+       "share": 0.13,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      10,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      22,
+      25,
+      28,
+      29,
+      52,
+      54,
+      64,
+      72
+     ],
+     "sizeCount": 16,
+     "notLoaded": [],
+     "body": {
+      "font": "DM Sans",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 10.6
+     },
+     "measureChars": 41,
+     "max": {
+      "size": 72,
+      "vw": 18.5,
+      "font": "Barlow Condensed",
+      "text": "Talk with Eli."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.03,
+     "centerShare": 0.07,
+     "smallText": 5
+    },
+    "eyebrows": [
+     {
+      "text": "California-based supplier",
+      "above": "CARBIDE INSERTS FOR YOUR SHOP.",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 17,
+      "top": 288
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f5f5f5",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f7f7f6",
+       "top": 157,
+       "hsl": {
+        "h": 60,
+        "s": 0.06,
+        "l": 0.97
+       }
+      },
+      {
+       "color": "#20201e",
+       "top": 1207,
+       "hsl": {
+        "h": 60,
+        "s": 0.03,
+        "l": 0.12
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 780,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#deddd7",
+       "top": 1509,
+       "hsl": {
+        "h": 51,
+        "s": 0.1,
+        "l": 0.86
+       }
+      },
+      {
+       "color": "#e2e0d9",
+       "top": 3050,
+       "hsl": {
+        "h": 47,
+        "s": 0.13,
+        "l": 0.87
+       }
+      },
+      {
+       "color": "#e7a83c",
+       "top": 4004,
+       "hsl": {
+        "h": 38,
+        "s": 0.78,
+        "l": 0.57
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#20201e",
+       "share": 0.31
+      },
+      {
+       "color": "#d2d0c9",
+       "share": 0.23
+      },
+      {
+       "color": "#4f4d48",
+       "share": 0.22
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.15
+      },
+      {
+       "color": "#f3f2ed",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#20201e",
+      "hsl": {
+       "h": 60,
+       "s": 0.03,
+       "l": 0.12
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 1,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Call: (415) 521-0686"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 120,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "barlow condensed",
+     "dm sans"
+    ]
+   },
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (text #f3f2ed).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "18 different font sizes (12, 13, 14, 15, 16, 17, 18, 19, 20, 23, 27, 28, 29, 32, 82, 86, 88, 108).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "small-text",
+   "width": 1440,
+   "message": "4 text blocks under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 768,
+   "message": "1 eyebrow/kicker label(s) above headings: \"California-based supplier\" above \"CARBIDE INSERTS FOR YOUR SHOP.\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    390
+   ]
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/kean.edwards/Desktop/anacapa/.taste-skill/inspect/desktop-fold.jpg",
+   "pages": [
+    "/Users/kean.edwards/Desktop/anacapa/.taste-skill/inspect/desktop-page-01.jpg"
+   ]
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/kean.edwards/Desktop/anacapa/.taste-skill/inspect/tablet-fold.jpg",
+   "pages": [
+    "/Users/kean.edwards/Desktop/anacapa/.taste-skill/inspect/tablet-page-01.jpg"
+   ]
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/kean.edwards/Desktop/anacapa/.taste-skill/inspect/mobile-fold.jpg",
+   "pages": [
+    "/Users/kean.edwards/Desktop/anacapa/.taste-skill/inspect/mobile-page-01.jpg"
+   ]
+  }
+ ]
+}

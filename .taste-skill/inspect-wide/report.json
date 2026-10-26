@@ -1,0 +1,430 @@
+{
+ "url": "http://localhost:5173/",
+ "at": "2026-10-26T16:15:01.953Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1920,
+   "height": 1200,
+   "load": "load",
+   "screens": 3,
+   "filled": [
+    1,
+    1,
+    1
+   ],
+   "motion": {
+    "elements": 27,
+    "css": 0,
+    "transitions": 27,
+    "scripted": 0,
+    "videos": 2,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1920,
+     "h": 1200
+    },
+    "page": {
+     "height": 3366,
+     "screens": 2.8,
+     "words": 315,
+     "img": 4,
+     "video": 2,
+     "canvas": 0,
+     "svg": 12,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 2,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "milling-1137974_1280.jpg",
+      "machine-1181046_1280.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "CARBIDE INSERTS FOR YOUR SHOP.",
+     "words": 5,
+     "chars": 30,
+     "lines": 2,
+     "size": 97.9,
+     "vw": 5.1,
+     "font": "Barlow Condensed",
+     "weight": 700,
+     "tracking": -0.035,
+     "leading": 0.96,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.33,
+     "top": 428,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "CARBIDE INSERTS FOR YOUR SHOP.",
+     "words": 5,
+     "lines": 2,
+     "size": 97.9,
+     "font": "Barlow Condensed"
+    },
+    "headings": [
+     {
+      "text": "High Quality Inserts",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 38,
+      "vw": 2,
+      "font": "DM Sans",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "right",
+      "widthRatio": 0.24,
+      "top": 409,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "CARBIDE INSERTS FOR YOUR SHOP.",
+      "words": 5,
+      "chars": 30,
+      "lines": 2,
+      "size": 97.9,
+      "vw": 5.1,
+      "font": "Barlow Condensed",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.96,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 428,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Turning and milling inserts.",
+      "words": 4,
+      "chars": 28,
+      "lines": 2,
+      "size": 82,
+      "vw": 4.3,
+      "font": "Barlow Condensed",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.94,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 1539,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Quote the code you already use.",
+      "words": 6,
+      "chars": 31,
+      "lines": 2,
+      "size": 88,
+      "vw": 4.6,
+      "font": "Barlow Condensed",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 2278,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Talk with Eli.",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 108,
+      "vw": 5.6,
+      "font": "Barlow Condensed",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 0.88,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 2886,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 5,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "DM Sans",
+       "share": 0.87,
+       "mono": false
+      },
+      {
+       "family": "Barlow Condensed",
+       "share": 0.13,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      20,
+      22,
+      23,
+      27,
+      28,
+      29,
+      38,
+      82,
+      88,
+      98,
+      108
+     ],
+     "sizeCount": 18,
+     "notLoaded": [],
+     "body": {
+      "font": "DM Sans",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 10.6
+     },
+     "measureChars": 52,
+     "max": {
+      "size": 108,
+      "vw": 5.6,
+      "font": "Barlow Condensed",
+      "text": "Talk with Eli."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.04,
+     "centerShare": 0.06,
+     "smallText": 4
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f5f5f5",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f7f7f6",
+       "top": 141,
+       "hsl": {
+        "h": 60,
+        "s": 0.06,
+        "l": 0.97
+       }
+      },
+      {
+       "color": "#20201e",
+       "top": 141,
+       "hsl": {
+        "h": 60,
+        "s": 0.03,
+        "l": 0.12
+       }
+      },
+      {
+       "color": "#e2e0d9",
+       "top": 2156,
+       "hsl": {
+        "h": 47,
+        "s": 0.13,
+        "l": 0.87
+       }
+      },
+      {
+       "color": "#e7a83c",
+       "top": 2780,
+       "hsl": {
+        "h": 38,
+        "s": 0.78,
+        "l": 0.57
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#20201e",
+       "share": 0.31
+      },
+      {
+       "color": "#d2d0c9",
+       "share": 0.22
+      },
+      {
+       "color": "#4f4d48",
+       "share": 0.21
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.15
+      },
+      {
+       "color": "#f3f2ed",
+       "share": 0.06
+      }
+     ],
+     "button": {
+      "bg": "#20201e",
+      "hsl": {
+       "h": 60,
+       "s": 0.03,
+       "l": 0.12
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 2,
+     "radius": 0,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Call: (415) 521-0686",
+      "Submit"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "video",
+      "ratio": 0.39
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": false,
+     "height": 104,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "barlow condensed",
+     "dm sans"
+    ]
+   },
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1920,
+   "message": "Yellow-cream background (text #f3f2ed).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream."
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1920,
+   "message": "18 different font sizes (12, 13, 14, 15, 16, 17, 18, 20, 22, 23, 27, 28, 29, 38, 82, 88, 98, 108).",
+   "fix": "A page needs about five: display, heading, lead, body, small."
+  },
+  {
+   "level": "FAIL",
+   "id": "small-text",
+   "width": 1920,
+   "message": "4 text blocks under 13px.",
+   "fix": "Nothing meant to be read goes below 13px."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1920,
+   "fold": "/Users/kean.edwards/Desktop/anacapa/.taste-skill/inspect-wide/desktop-fold.jpg",
+   "pages": [
+    "/Users/kean.edwards/Desktop/anacapa/.taste-skill/inspect-wide/desktop-page-01.jpg"
+   ]
+  }
+ ]
+}
